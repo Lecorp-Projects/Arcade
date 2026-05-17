@@ -41,28 +41,18 @@ Desde el menú superior:
 Terminal → New Terminal
 ```
 
-Atajo en Mac:
-
-```text
-Control + `
-```
-
-El símbolo `` ` `` suele estar cerca de la tecla **Esc**, dependiendo del teclado.
-
----
-
 ## 1.3. Cómo reconocer que estás en la terminal
 
 Verás algo parecido a esto:
 
 ```text
-hugo@MacBook-Air Arcade %
+ ...Arcade %
 ```
 
 o si el entorno virtual está activo:
 
 ```text
-(.venv) hugo@MacBook-Air Arcade %
+(.venv) ... Arcade %
 ```
 
 La parte final suele indicar la carpeta en la que estás, y el símbolo `%` o `$` significa que la terminal está esperando un comando.
@@ -101,7 +91,7 @@ El **working directory** es:
 Si estás dentro de:
 
 ```text
-/Users/hugo/Documents/Arcade
+/.../Arcade
 ```
 
 y creas una carpeta, esa carpeta se crea **dentro de Arcade**.
@@ -151,7 +141,7 @@ Muestra la ruta completa de la carpeta actual.
 ### Ejemplo de salida
 
 ```text
-/Users/hugo/Desktop/ARCADE
+/.../ARCADE
 ```
 
 ### Para qué sirve
@@ -271,7 +261,7 @@ Te lleva a tu carpeta de usuario en macOS.
 Ejemplo aproximado:
 
 ```text
-/Users/hugo
+/Users/...
 ```
 
 ---
@@ -479,7 +469,7 @@ al inicio de la línea de la terminal.
 Ejemplo:
 
 ```text
-(.venv) hugo@MacBook-Air ARCADE %
+(.venv) ... ARCADE %
 ```
 
 ---
