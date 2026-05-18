@@ -70,9 +70,9 @@ y usar un botón de Qt sin programar en C++.
 
 Lo usaremos porque:
 
-1. Quieres aprender interfaces de verdad.
+1. Permite aprender interfaces de verdad.
 2. El Arcade permite practicar de forma divertida.
-3. Luego quieres hacer un programa de control de gastos e ingresos, y Qt te puede servir mucho si decides construir una app de escritorio.
+3. Qt te puede servir mucho si decides construir una app de escritorio.
 4. Los conceptos de Qt te enseñan arquitectura de aplicaciones: eventos, pantallas, estado, separación de lógica y UI.
 
 ---
